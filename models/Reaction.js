@@ -1,7 +1,6 @@
 // const {Schema, model} = require('mongoose');
 const { Schema, model } = require('mongoose');
 
-
 // const reactionSchema = new Schema(
 // reactionID, reactionBody, username, createdAt
 const reactionSchema = new Schema(
